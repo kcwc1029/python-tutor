@@ -10,22 +10,33 @@
 
 ## 2. 章節
 
+基礎內容 01
+
 -   [Python 程式設計：先備知識](./Python程式設計：先備知識/Python程式設計：先備知識.pdf)
 -   [Python 程式設計：資料型態](./Python程式設計：資料型態/Python程式設計：資料型態.pdf)
 -   [基本輸入輸出](./Python程式設計：基本輸入輸出/Python程式設計：基本輸入輸出.pdf)
 -   [判斷式](./Python程式設計：判斷式/Python程式設計：判斷式.pdf)
 -   [陣列](./Python程式設計：陣列/Python程式設計：陣列.pdf)
 -   [迴圈](./Python程式設計：迴圈/Python程式設計：迴圈.pdf)
--   [QRcode](https://colab.research.google.com/drive/1W95VR6H-ikQJ3qv9s1X8sfw-EeLJmzav?usp=sharing)
 
--   [海龜畫圖](./Python程式設計：海龜畫圖/Python程式設計：海龜畫圖.pdf)
+其他結構
+
 -   [元組](./Python程式設計：元組/Python程式設計：元組.pdf)
 -   [字典](./Python程式設計：字典/Python程式設計：字典.pdf)
--   [函數](./Python程式設計：函數/Python程式設計：函數.pdf)
--   [詞雲](./Python程式設計：詞雲/README.md)
--   [Pillow 影像處裡](./Python程式設計：Pillow影像處裡/README.md)
+
+小實作
+
+-   [QRcode](https://colab.research.google.com/drive/1W95VR6H-ikQJ3qv9s1X8sfw-EeLJmzav?usp=sharing)
+-   [海龜畫圖](./Python程式設計：海龜畫圖/Python程式設計：海龜畫圖.pdf)
+-   [詞雲](https://colab.research.google.com/drive/15gCDBWjh9Mw8uQjvyLqyWqJZ9Q0F1b6k?usp=sharing)
+-   [Pillow 影像處裡](https://colab.research.google.com/drive/15cHECZTBxq8kI_mgezxce8egr-ycx8Oz?usp=sharing)
 -   [Pytesseract 車牌辨識](./Python程式設計：Pytesseract車牌辨識/Python程式設計：Pytesseract車牌辨識.pdf)
+
+基礎內容 02
+
+-   [函數](./Python程式設計：函數/Python程式設計：函數.pdf)
 -   [物件導向程式設計](./Python程式設計：物件導向程式設計/Python程式設計：物件導向程式設計.pdf)
+-   [模組](./Python程式設計：模組/Python程式設計：模組.pdf)
 -   <!-- ## 3. 作業 -->
 
 ## 3. 花些時間看看
