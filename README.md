@@ -18,15 +18,12 @@
 -   [判斷式](./Python程式設計：判斷式/Python程式設計：判斷式.pdf)
 -   [陣列](./Python程式設計：陣列/Python程式設計：陣列.pdf)
 -   [迴圈](./Python程式設計：迴圈/Python程式設計：迴圈.pdf)
-
-其他結構
-
 -   [元組](./Python程式設計：元組/Python程式設計：元組.pdf)
 -   [字典](./Python程式設計：字典/Python程式設計：字典.pdf)
+-   [QRcode](https://colab.research.google.com/drive/1W95VR6H-ikQJ3qv9s1X8sfw-EeLJmzav?usp=sharing)
 
 小實作
 
--   [QRcode](https://colab.research.google.com/drive/1W95VR6H-ikQJ3qv9s1X8sfw-EeLJmzav?usp=sharing)
 -   [海龜畫圖](./Python程式設計：海龜畫圖/Python程式設計：海龜畫圖.pdf)
 -   [詞雲](https://colab.research.google.com/drive/15gCDBWjh9Mw8uQjvyLqyWqJZ9Q0F1b6k?usp=sharing)
 -   [Pillow 影像處裡](https://colab.research.google.com/drive/15cHECZTBxq8kI_mgezxce8egr-ycx8Oz?usp=sharing)
@@ -37,7 +34,13 @@
 -   [函數](./Python程式設計：函數/Python程式設計：函數.pdf)
 -   [物件導向程式設計](./Python程式設計：物件導向程式設計/Python程式設計：物件導向程式設計.pdf)
 -   [模組](./Python程式設計：模組/Python程式設計：模組.pdf)
--   <!-- ## 3. 作業 -->
+-   [內建模組(ramdon、time)](https://colab.research.google.com/drive/17em8ICBw1VGf7kFy4k-lBvUEwMPDmPM1?usp=sharing)
+-   [檔案輸入輸出與目錄管理](./Python程式設計：檔案輸入輸出與目錄管理/Python程式設計：檔案輸入輸出與目錄管理.pdf)
+-   [異常處理](./Python程式設計：異常處理/Python程式設計：異常處理.pdf)
+
+文件處理(自動化)
+
+-   [Python 程式設計：Json](https://colab.research.google.com/drive/1Ygj2QNgyiq0K3NW5c0h4diZ91Gemv5cU?usp=sharing)
 
 ## 3. 花些時間看看
 
