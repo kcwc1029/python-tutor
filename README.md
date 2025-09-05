@@ -1,46 +1,19 @@
-## 1. 課程方向
-
--   [課前討論](./課前討論/課前討論.pdf)
-
-<!-- -   基本 python([類似方向](https://www.books.com.tw/products/0010961496?sloc=main)) -->
-<!-- -   資料結構([類似方向](https://www.books.com.tw/products/E050254313?sloc=main)) -->
-<!-- -   演算法([類似方向](https://www.books.com.tw/products/0010998927?sloc=main)) -->
-<!-- -   機器學習([類似方向](https://www.books.com.tw/products/0011016130?sloc=main)) -->
-<!-- -   深度學習([類似方向](https://www.books.com.tw/products/0010901055?sloc=main)) -->
-
 ## 2. 章節
-
-基礎內容 01
-
--   [Python 程式設計：先備知識](./Python程式設計：先備知識/Python程式設計：先備知識.pdf)
--   [Python 程式設計：資料型態](./Python程式設計：資料型態/Python程式設計：資料型態.pdf)
--   [基本輸入輸出](./Python程式設計：基本輸入輸出/Python程式設計：基本輸入輸出.pdf)
--   [判斷式](./Python程式設計：判斷式/Python程式設計：判斷式.pdf)
--   [陣列](./Python程式設計：陣列/Python程式設計：陣列.pdf)
--   [迴圈](./Python程式設計：迴圈/Python程式設計：迴圈.pdf)
--   [元組](./Python程式設計：元組/Python程式設計：元組.pdf)
--   [字典](./Python程式設計：字典/Python程式設計：字典.pdf)
--   [QRcode](https://colab.research.google.com/drive/1W95VR6H-ikQJ3qv9s1X8sfw-EeLJmzav?usp=sharing)
 
 小實作
 
 -   [海龜畫圖](./Python程式設計：海龜畫圖/Python程式設計：海龜畫圖.pdf)
--   [詞雲](https://colab.research.google.com/drive/15gCDBWjh9Mw8uQjvyLqyWqJZ9Q0F1b6k?usp=sharing)
--   [Pillow 影像處裡](https://colab.research.google.com/drive/15cHECZTBxq8kI_mgezxce8egr-ycx8Oz?usp=sharing)
+
 -   [Pytesseract 車牌辨識](./Python程式設計：Pytesseract車牌辨識/Python程式設計：Pytesseract車牌辨識.pdf)
 
 基礎內容 02
 
--   [函數](./Python程式設計：函數/Python程式設計：函數.pdf)
 -   [物件導向程式設計](./Python程式設計：物件導向程式設計/Python程式設計：物件導向程式設計.pdf)
--   [模組](./Python程式設計：模組/Python程式設計：模組.pdf)
--   [內建模組(ramdon、time)](https://colab.research.google.com/drive/17em8ICBw1VGf7kFy4k-lBvUEwMPDmPM1?usp=sharing)
+
+-
 -   [檔案輸入輸出與目錄管理](./Python程式設計：檔案輸入輸出與目錄管理/Python程式設計：檔案輸入輸出與目錄管理.pdf)
--   [異常處理](./Python程式設計：異常處理/Python程式設計：異常處理.pdf)
 
 文件處理(自動化)
-
--   [Python 程式設計：Json](https://colab.research.google.com/drive/1Ygj2QNgyiq0K3NW5c0h4diZ91Gemv5cU?usp=sharing)
 
 ## 3. 花些時間看看
 
